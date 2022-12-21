@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MoviesApp
+
+  Created by jorge enrique caicedo cuero on 13/12/2022.
+  
+*/
+"treading_section_title" = "Treading";
+"popular_section_title" = "Popular";
+"toprated_section_title" = "Top Rated";
+"my_list_title" = "My list";
+"info_title" = "Info";
+"play_title" = "Play";
+"cast_title" = "Cast";
+"recomendations_title" = "Recomendations";
+"alert_error_title" = "Error";
+"alert_error_message" = "Something went wrong!";
